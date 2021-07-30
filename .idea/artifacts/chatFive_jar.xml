@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="chatFive:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/chatFive_jar</output-path>
+    <root id="archive" name="chatFive.jar">
+      <element id="module-output" name="chatFive" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive/바탕화~1-DESKTOP-20M3Q3V-12639/스마트05/2학년 1학기/자바2/Java-WebSocket-1.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive/바탕화~1-DESKTOP-20M3Q3V-12639/스마트05/2학년 1학기/자바2/slf4j-api-1.7.30.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
